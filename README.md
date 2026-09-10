@@ -48,7 +48,7 @@ SASS system-register selectors are recorded in
 [`research/SM120_HIDDEN_REGISTERS.md`](research/SM120_HIDDEN_REGISTERS.md).
 
 A request for an official, globally identifiable per-SM/SMSP sampling interface
-is tracked in [NVIDIA/open-gpu-kernel-modules discussion #1350](https://github.com/NVIDIA/open-gpu-kernel-modules/discussions/1350).
+is tracked in [NVIDIA/open-gpu-kernel-modules issue #1351](https://github.com/NVIDIA/open-gpu-kernel-modules/issues/1351), with a parallel [Ideas discussion #1350](https://github.com/NVIDIA/open-gpu-kernel-modules/discussions/1350).
 
 Inspect compiler-generated PTX:
 
