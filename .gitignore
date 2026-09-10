@@ -1,0 +1,17 @@
+# Build products
+/smsp_badapple
+/smsp_allocation_probe
+/smsp_badapple.ptx
+*.o
+*.cubin
+
+# Local media (not redistributed)
+/media/*.mp4
+/media/*.mkv
+/media/*.webm
+/media/*.gray
+
+# Profiler output
+*.ncu-rep
+*.nsys-rep
+*.sqlite

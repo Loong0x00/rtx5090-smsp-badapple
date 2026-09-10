@@ -1,0 +1,9 @@
+Title: [Alstroemeria Records]Bad Apple!! feat.nomico(Shadow Animation Version)[ACVS.008_Tr.00]
+Uploader/channel: Masayoshi Minoshima / ALSTROEMERIA RECORDS
+Source: https://www.youtube.com/watch?v=i41KoE0iMYU
+Retrieved with yt-dlp: 2026-09-10
+Selected format: video-only MP4/AV1, height <= 720
+
+Re-download command:
+  yt-dlp --no-playlist -f 'bv*[height<=720]/b[height<=720]' --remux-video mp4 \
+    -o 'badapple-official.%(ext)s' 'https://www.youtube.com/watch?v=i41KoE0iMYU'
